@@ -1,5 +1,5 @@
 # E-COMMERCE
-![dark](1.png)
-![dark](2.png)
-![dark](3.png)
-![dark](4.png)
+![dark](Screenshots/1.png)
+![dark](Screenshots/2.png)
+![dark](Screenshots/3.png)
+![dark](Screenshots/4.png)
